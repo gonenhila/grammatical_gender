@@ -1,0 +1,1058 @@
+Buch	Text	6.23
+2	1
+Nacht	Tag	4.77
+0	1
+Süden	Norden	3.92
+1	1
+Flugzeug	Flughafen	5.85
+2	1
+Unterseite	Oberseite	5.08
+0	0
+Welt	Globus	7.31
+0	1
+Bein	Arm	4.54
+2	1
+Flugzeug	Düsenflugzeug	8.23
+2	2
+Film	Streifen	6.23
+1	1
+Wort	Wörterbuch	6.54
+2	2
+Geld	Gehalt	8.00
+2	1
+Gegend	Region	8.23
+0	0
+Marine	Armee	7.54
+0	0
+Buch	Literatur	7.31
+2	0
+Kleider	Schrank	3.62
+2	1
+Sonnenuntergang	Sonnenaufgang	5.85
+1	1
+Buch	Geschichte	5.38
+2	0
+Winter	Sommer	5.31
+1	1
+Taxi	Taxe	6.77
+2	0
+Baum	Ahorn	7.08
+1	1
+Bett	Schlafzimmer	6.00
+2	2
+Dach	Decke	5.15
+2	0
+Krankheit	Infektion	7.08
+0	0
+Arm	Schulter	5.92
+1	0
+Boot	Anker	5.15
+2	1
+Zeh	Finger	3.31
+1	1
+Fluss	Strom	7.08
+1	1
+Zorn	Wut	9.15
+1	0
+Datum	Kalender	5.62
+2	1
+Meer	Ozean	8.54
+0	1
+Sekunde	Minute	3.46
+0	0
+Hand	Daumen	5.08
+0	1
+Holz	Scheit	7.38
+2	1
+Schlamm	Schmutz	6.77
+1	1
+Flur	Gang	8.69
+1	1
+Weise	Art	5.92
+0	0
+Polizist	Sheriff	8.31
+1	1
+Tod	Beerdigung	6.15
+1	0
+Musik	Melodie	7.54
+0	0
+Bier	Alkohol	6.00
+2	1
+Mund	Lippe	7.00
+1	0
+Sturm	Orkan	8.85
+1	1
+Steuer	Einkommen	4.54
+0	2
+Blume	Veilchen	6.31
+0	2
+Papier	Pappe	6.92
+2	0
+Boden	Decke	2.62
+1	0
+Strand	Küste	6.54
+1	0
+Stange	Vorhang	2.77
+0	1
+Jagdhund	Fuchs	3.31
+1	1
+Straße	Gasse	7.08
+0	0
+Boot	Deck	5.00
+2	2
+Auto	Hupe	3.46
+2	0
+Hand	Handgelenk	5.69
+0	2
+Kugel	Kanone	4.23
+0	0
+Alkohol	Branntwein	7.54
+1	1
+Sieg	Triumph	8.46
+1	1
+Telefon	Zelle	3.15
+2	0
+Tür	Eingang	6.85
+0	1
+Motel	Herberge	6.92
+2	0
+Kleidung	Stoff	6.08
+0	1
+Steak	Fleisch	6.85
+2	2
+Nagel	Daumen	5.31
+1	1
+Kapelle	Orchester	7.08
+0	2
+Buch	Bibel	6.15
+2	0
+Unternehmen	Industrie	6.69
+2	0
+Winter	Jahreszeit	7.15
+1	0
+Jahrzehnt	Jahrhundert	5.31
+2	2
+Alkohol	Gin	7.08
+1	1
+Hut	Mantel	3.00
+1	1
+Fenster	Tür	4.08
+2	0
+Arm	Gelenk	4.62
+1	2
+Haus	Wohnung	6.62
+2	0
+Glas	Kristall	6.23
+0	2
+Wein	Branntwein	6.38
+1	1
+Abendessen	Frühstück	3.23
+2	2
+Arm	Muskel	5.62
+1	1
+Blase	Schaum	3.38
+0	1
+Brot	Mehl	6.46
+2	2
+Tod	Tragödie	7.38
+1	0
+Abwesenheit	Anwesenheit	4.92
+0	0
+Pistole	Kanone	6.00
+0	0
+Gras	Halm	6.15
+2	1
+Ball	Korb	3.38
+1	1
+Schlauch	Garten	4.08
+1	1
+Kirche	Chor	4.62
+0	1
+Kleidung	Schublade	3.69
+0	0
+Turm	Glocke	4.46
+1	0
+Schule	Note	5.23
+0	0
+Stab	Gefängnis	2.62
+1	2
+Auto	Autobahn	6.00
+2	0
+Wörterbuch	Definition	6.23
+2	0
+Tür	Keller	4.15
+0	1
+Armee	Legion	7.31
+0	0
+Metall	Aluminium	6.08
+2	2
+Stuhl	Bank	5.38
+1	0
+Wolke	Nebel	5.62
+0	1
+Wasser	Eis	3.92
+2	2
+Bett	Decke	5.54
+2	0
+Gebiet	Zone	7.15
+2	0
+Unternehmen	Betrieb	8.69
+2	1
+Kleidung	Gewebe	5.23
+0	2
+Pullover	Jacke	4.77
+1	0
+Geld	Vermögen	7.62
+2	2
+Hand	Fuß	3.92
+0	1
+Alkohol	Cocktail	6.38
+1	1
+Meter	Zentimeter	6.62
+1	1
+Molekül	Atom	7.23
+2	2
+Linse	Kamera	5.69
+0	0
+Mahlzeit	Abendessen	6.46
+0	2
+Auge	Träne	5.54
+2	0
+Gott	Teufel	3.46
+1	1
+Schlaufe	Gürtel	4.69
+0	1
+Motor	Antrieb	7.00
+1	1
+Auto	Taxi	4.92
+2	2
+Größe	Ausmaß	6.38
+0	2
+Wirklichkeit	Fantasie	0.69
+0	0
+Türe	Tor	6.38
+0	2
+Blech	Aluminium	4.00
+2	2
+Knochen	Kiefer	4.62
+1	1
+Getreide	Weizen	6.38
+2	1
+Haus	Schlüssel	2.54
+2	0
+Blut	Fleisch	1.85
+2	2
+Tür	Flur	2.15
+0	1
+Gott	Geist	3.69
+1	1
+Fähigkeit	Kompetenz	7.08
+0	0
+Überschwang	Überfluss	5.85
+1	1
+Sofa	Stuhl	2.69
+2	1
+Mauer	Ziegel	4.77
+0	1
+Horn	Trommel	1.92
+2	0
+Organ	Leber	5.77
+2	0
+Kraft	Macht	4.62
+0	0
+Begriff	Wort	5.54
+1	2
+Kapelle	Parade	1.92
+0	0
+Bauch	Taille	4.23
+1	0
+Wolke	Sturm	2.38
+0	1
+Freude	Stolz	3.77
+0	1
+Lärm	Gerassel	4.92
+1	2
+Regen	Dunst	3.23
+1	1
+Bier	Getränk	6.08
+2	2
+Apfel	Saft	2.46
+1	1
+Intelligenz	Logik	5.46
+0	0
+Verständigung	Sprache	5.77
+0	0
+Nerz	Pelz	5.62
+1	1
+Menschenmenge	Gedränge	4.85
+0	2
+Ufer	Küste	6.77
+2	0
+Leitung	Kabel	6.77
+0	2
+Vogel	Truthahn	5.15
+1	1
+Bett	Krippe	4.31
+2	0
+Befähigung	Können	6.23
+0	2
+Wolke	Dunstschleier	4.46
+0	1
+Abendmahl	Mahlzeit	5.31
+2	0
+Stab	Käfig	1.92
+1	1
+Wasser	Salz	1.15
+2	1
+Sinn	Intuition	3.77
+1	0
+Lage	Umstand	4.77
+0	1
+Verbrechen	Diebstahl	5.92
+2	1
+Stil	Mode	6.46
+1	0
+Rand	Grenze	7.69
+1	0
+Arm	Körper	3.31
+1	1
+Boot	Auto	5.69
+2	2
+Sandwich	Mittagessen	1.92
+2	2
+Auto	Spurweite	7.08
+2	0
+Krippe	Wiege	2.08
+0	0
+Marijuana	Kraut	2.38
+2	2
+Bett	Krankenhaus	3.23
+2	2
+Wange	Zunge	3.54
+0	0
+CD	Computer	5.15
+0	1
+Kurve	Winkel	6.31
+0	1
+Gras	Moos	5.15
+2	2
+Schule	Jura	3.85
+0	2
+Fuß	Kopf	2.69
+1	1
+Alkohol	Whiskey	7.77
+1	1
+Mund	Zahn	5.23
+1	1
+Frühstück	Speck	8.31
+2	1
+Bad	Schlafzimmer	5.62
+2	2
+Teller	Schale	3.31
+1	0
+Fleisch	Speck	4.23
+2	1
+Luft	Helium	3.69
+0	2
+Körper	Brust	5.62
+1	0
+Herz	Operation	6.15
+2	0
+Strand	Insel	4.92
+1	0
+Geschichte	Thema	5.31
+0	2
+Spiel	Spaß	3.85
+0	1
+Wochenende	Woche	4.23
+2	0
+Pärchen	Paar	7.85
+2	2
+Geldbeutel	Tasche	6.38
+1	0
+Decke	Kathedrale	2.69
+0	0
+Bohne	Kaffee	5.23
+0	1
+Holz	Papier	7.00
+2	2
+Oberseite	Seite	2.69
+0	0
+Vergehen	Betrug	3.08
+2	1
+Schmerz	Schaden	3.46
+1	1
+Liebhaber	Gefährte	4.08
+1	1
+Abend	Abenddämmerung	5.69
+1	0
+Wein	Likör	6.62
+1	1
+Glaube	Meinung	5.08
+1	0
+Wirklichkeit	Illusion	0.92
+0	0
+Vertrag	Vereinbarung	7.46
+1	0
+Reichtum	Armut	0.54
+1	0
+Unfall	Notfall	6.92
+1	1
+Schlacht	Eroberung	4.62
+0	0
+Erkrankung	Ansteckung	5.69
+0	0
+Spiel	Finte	1.69
+0	0
+Eiche	Ahorn	4.23
+0	1
+Auto	Fahrrad	1.85
+2	2
+Ziel	Streben	5.85
+2	2
+August	Monat	6.23
+1	1
+Armee	Truppe	6.85
+0	0
+Wolke	Wetter	4.31
+0	2
+Schlucht	Tal	6.31
+0	2
+Fluss	Tal	2.38
+1	2
+Sonne	Himmel	3.46
+0	1
+Zielscheibe	Pfeil	2.92
+0	1
+Schokolade	Torte	2.38
+0	0
+Umstand	Lage	5.85
+1	0
+Meinung	Wahl	4.69
+0	0
+Rhythmus	Melodie	5.23
+1	0
+Darm	Nerv	1.54
+1	1
+Tag	Morgendämmerung	3.31
+1	0
+Arm	Vene	2.92
+1	0
+Zimmer	Bad	4.08
+2	2
+Unternehmen	Geschäft	7.54
+2	2
+Spaß	Fußball	3.38
+1	1
+Hügel	Klippe	3.62
+1	0
+Knochen	Knöchel	6.23
+1	1
+Apfel	Süßigkeit	2.62
+1	0
+Zitrone	Tee	1.54
+0	1
+Basketball	Baseball	2.62
+1	1
+Reis	Bohne	2.92
+1	0
+Bett	Möbel	5.23
+2	2
+Gefühlsregung	Leidenschaft	5.38
+0	0
+Anarchie	Chaos	6.23
+0	2
+Verbrechen	Übertretung	4.23
+2	0
+Maschine	Antrieb	4.92
+0	1
+Strand	Meer	5.15
+1	0
+Gasse	Schüssel	0.54
+0	0
+Krug	Flasche	4.00
+1	0
+Kraft	Fähigkeit	3.23
+0	0
+Samen	Senf	2.69
+1	1
+Gitarre	Trommel	4.00
+0	0
+Meinung	Idee	4.54
+0	0
+Norden	Westen	3.77
+1	1
+Diät	Salat	3.31
+0	1
+Meter	Yard	6.08
+1	2
+Bier	Champagner	3.85
+2	1
+Motor	Boot	3.23
+1	2
+Karte	Bridge	2.77
+0	2
+Wissenschaft	Psychologie	4.77
+0	0
+Sünder	Heilige	2.69
+1	1
+Abbau	Aufbau	3.15
+1	1
+Menge	Haufen	5.92
+0	1
+Strand	Riff	4.00
+1	2
+Brot	Käse	2.23
+2	1
+Meister	Gewinner	6.62
+1	1
+Feier	Zeremonie	6.23
+0	0
+Speisekarte	Bestellung	3.31
+0	0
+Reichtum	Ansehen	4.38
+1	2
+Ausdauer	Kraft	4.77
+0	0
+Gefahr	Bedrohung	8.92
+0	0
+Körper	Bauch	3.69
+1	1
+Zunge	Kehle	3.38
+0	0
+Haus	Teppich	1.00
+2	1
+Intelligenz	Geschick	4.31
+0	2
+Reise	Eroberung	1.85
+0	0
+Tod	Katastrophe	4.31
+1	0
+Monster	Dämon	7.00
+2	1
+Tag	Morgen	3.62
+1	1
+Lied	Geschichte	2.77
+2	0
+Strahl	Sonnenschein	5.15
+1	1
+Hühnchen	Reis	1.31
+2	1
+Kasten	Aufzug	0.92
+1	1
+Butter	Kartoffel	1.54
+0	0
+Wohnung	Möbel	3.85
+0	2
+See	Moor	2.92
+1	2
+Salat	Essig	3.54
+1	1
+Blume	Knolle	3.85
+0	0
+Wolke	Dunst	5.46
+0	1
+Zucker	Honig	3.92
+1	1
+Körper	Schulter	3.77
+1	0
+Idee	Abbild	1.85
+0	2
+Mond	Planet	6.15
+1	1
+Ball	Kostüm	4.46
+1	2
+Gleis	Zaun	1.00
+2	1
+Zimmer	Bett	2.54
+2	2
+Blume	Busch	3.23
+0	1
+Knochen	Knie	4.69
+1	2
+Arm	Knie	4.31
+1	2
+Unterseite	Seite	5.15
+0	0
+Gefäß	Vene	5.08
+2	0
+Fleisch	Sandwich	2.62
+2	2
+Glaube	Konzept	2.77
+1	2
+Intelligenz	Einsicht	3.77
+0	0
+Aufmerksamkeit	Interesse	7.69
+0	2
+Haltung	Selbstsicherheit	5.08
+0	0
+Recht	Gerechtigkeit	7.62
+2	0
+Streit	Vereinbarung	0.54
+1	0
+Tiefe	Ausmaß	4.23
+0	2
+Medium	Nachrichten	4.00
+2	0
+Geburtstag	Datum	4.92
+1	2
+Gebühr	Bezahlung	6.38
+0	0
+Bibel	Hymne	0.31
+0	0
+Ausgang	Eingang	4.85
+1	1
+Gang	Halle	3.00
+1	0
+Whiskey	Gin	5.23
+1	1
+Blut	Mark	1.62
+2	2
+Öl	Nerz	0.85
+2	1
+Schiffsboden	Schiffsdeck	5.85
+1	2
+Dach	Boden	4.08
+2	1
+Türe	Boden	1.31
+0	1
+Schulter	Kopf	3.92
+0	1
+Wagen	Kutsche	5.92
+1	0
+Auto	Kutsche	4.77
+2	0
+Ellenbogen	Knöchel	4.15
+1	1
+Reichtum	Ruhm	3.77
+1	1
+Sorge	Scham	2.23
+0	0
+Verwaltung	Geschäftsführung	6.69
+0	0
+Verständigung	Unterhaltung	5.77
+0	0
+Verschmutzung	Atmosphäre	2.38
+0	0
+Anatomie	Biologie	4.23
+0	0
+Hochschule	Beruf	2.23
+0	1
+Buch	Thema	1.85
+2	2
+Formel	Gleichung	6.77
+0	0
+Buch	Information	2.77
+2	0
+Himmel	Universum	5.08
+1	2
+Hochschule	Klasse	3.46
+0	0
+Meter	Inch	3.85
+1	1
+Polyester	Baumwolle	2.77
+1	0
+Geige	Instrument	5.08
+0	2
+Lager	Hütte	3.54
+2	0
+Topf	Haushaltsgerät	4.54
+1	2
+Leinen	Gewebe	6.15
+2	2
+Whiskey	Champagner	2.85
+1	1
+Hütte	Häuschen	8.54
+0	2
+Vogel	Henne	4.69
+1	0
+Rakete	Lärm	2.31
+0	1
+Sonnenuntergang	Abend	4.69
+1	1
+Nieselregen	Regen	7.15
+1	1
+Holzkohle	Kohle	6.46
+0	0
+Körper	Rückgrat	4.23
+1	2
+Kopf	Nagel	1.62
+1	1
+Holzblock	Bauholz	4.46
+1	2
+Löffel	Tasse	2.00
+1	0
+Körper	Nerv	2.69
+1	1
+Knochen	Genick	3.62
+1	2
+Frust	Zorn	4.85
+1	1
+Fluss	Meer	3.23
+1	0
+Aufgabe	Beruf	4.92
+0	1
+Club	Verein	8.38
+1	1
+Spiegelung	Spiegelbild	7.85
+0	2
+Schnee	Wetter	4.31
+1	2
+Wurzel	Gras	2.85
+0	2
+Braue	Auge	3.77
+0	2
+Geld	Perle	1.62
+2	0
+Geld	Diamant	2.62
+2	1
+Gefährt	Bus	5.69
+2	1
+Taxi	Bus	3.92
+2	1
+Haus	Baracke	4.08
+2	0
+Finger	Handfläche	2.62
+1	0
+Auto	Brücke	0.92
+2	0
+Anstrengung	Schwierigkeit	5.15
+0	0
+Tatsache	Einsicht	1.77
+0	0
+Beruf	Unternehmensleitung	3.08
+1	0
+Krebs	Krankheit	5.54
+1	0
+Wort	Zeitung	1.46
+2	0
+Komponist	Schriftsteller	3.08
+1	1
+Unterschlupf	Hütte	5.62
+1	0
+Badezimmer	Küche	1.46
+2	0
+Hütte	Baracke	6.15
+0	0
+Türe	Küche	0.85
+0	0
+Wert	Glaube	1.92
+1	1
+Weisheit	Intelligenz	6.00
+0	0
+Unwissen	Intelligenz	0.23
+2	0
+Glückseligkeit	Glück	7.08
+0	2
+Idee	Plan	5.92
+0	1
+Laune	Gefühlsregung	6.08
+0	0
+Glückseligkeit	Frieden	6.00
+0	1
+Verzweiflung	Unglück	4.38
+0	2
+Logik	Arithmetik	3.46
+0	0
+Leugnung	Geständnis	0.54
+0	2
+Streit	Kritik	2.54
+1	0
+Aggression	Feindseligkeit	7.54
+0	0
+Hysterie	Verwirrung	2.23
+0	0
+Chemie	Theorie	1.46
+0	0
+Gerichtsverfahren	Urteil	4.46
+2	2
+Bequemlichkeit	Sicherheit	1.69
+0	0
+Selbstsicherheit	Selbst	2.38
+0	2
+Sicht	Wahrnehmung	7.00
+0	0
+Ära	Jahrzehnt	6.77
+0	2
+Biographie	Fiktion	1.46
+0	0
+Auseinandersetzung	Streit	8.69
+0	1
+Code	Symbol	4.15
+1	2
+Gefahr	Krankheit	2.38
+0	0
+Unfall	Katastrophe	6.46
+1	0
+Reise	Ausflug	7.00
+0	1
+Tätigkeit	Bewegung	4.31
+0	0
+Klatsch	Nachrichten	3.15
+1	0
+Tat	Verlauf	2.54
+0	1
+Fieber	Erkrankung	5.15
+2	0
+Luftfahrt	Flug	7.00
+0	1
+Spiel	Zug	1.62
+0	1
+Molekül	Luft	2.77
+2	0
+Heimat	Staat	4.92
+0	1
+Wort	Literatur	3.62
+2	0
+Zeitung	Information	4.15
+0	0
+Verständigung	Fernsehen	1.46
+0	2
+Gebiet	Ecke	2.77
+2	0
+Ballade	Lied	6.08
+0	2
+Wand	Schmuck	0.31
+0	1
+Wort	Seite	2.00
+2	0
+Buch	Aufsatz	2.08
+2	1
+Artikel	Zeitschrift	3.69
+1	0
+Frühstück	Abendmahl	2.46
+2	2
+Menge	Parade	3.31
+0	0
+Gang	Flur	6.08
+1	1
+Hüfte	Lippe	0.62
+0	0
+Buch	Artikel	2.31
+2	1
+Zimmer	Zelle	3.85
+2	0
+Kasten	Bude	1.31
+1	0
+Extremität	Bein	4.08
+0	2
+Leber	Lunge	2.23
+0	0
+Klassenzimmer	Gang	0.62
+2	1
+Berg	Felsvorsprung	4.08
+1	1
+Auto	Aufzug	0.31
+2	1
+Bett	Couch	4.54
+2	0
+Kleidung	Knopf	2.62
+0	1
+Kleidung	Mantel	5.23
+0	1
+Niere	Organ	4.54
+0	2
+Apfel	Soße	0.38
+1	0
+Auto	Schlauch	0.54
+2	1
+Tabak	Zigarette	6.00
+1	0
+Pfeife	Zigarre	4.85
+0	0
+Milch	Saft	1.92
+0	1
+Schachtel	Zigarre	2.00
+0	0
+Apartment	Hotel	4.54
+2	2
+Becher	Waffel	1.23
+1	0
+Kehle	Nase	1.77
+0	0
+Knochen	Zähne	2.38
+1	1
+Knochen	Ellenbogen	2.23
+1	1
+Speck	Bohne	1.15
+1	0
+Tasse	Krug	5.92
+0	1
+Beweis	Tatsache	6.23
+1	0
+Vereinbarung	Verabredung	6.23
+0	0
+Geburtstag	Jahr	2.46
+1	2
+Wort	Hinweis	1.92
+2	1
+Atom	Kohlenstoff	2.23
+2	1
+Brief	Absatz	1.92
+1	1
+Seite	Absatz	2.15
+0	1
+Kirchturm	Kapelle	4.46
+1	0
+Muskel	Knochen	1.38
+1	1
+Muskel	Zunge	2.23
+1	0
+Bauch	Unterleib	5.31
+1	1
+Bett	Stuhl	2.23
+2	1
+Kleidung	Jacke	4.15
+0	0
+Pistole	Messer	2.54
+0	0
+Blech	Metall	5.46
+2	2
+Flasche	Behälter	5.15
+0	1
+Fleisch	Brot	0.85
+2	2
+Arm	Knochen	1.92
+1	1
+Genick	Rückgrat	3.08
+2	2
+Apfel	Zitrone	2.15
+1	0
+Leiden	Trauer	6.38
+2	0
+Auftrag	Aufgabe	7.31
+1	0
+Nacht	Dämmerung	4.15
+0	0
+Abendessen	Suppe	3.31
+2	0
+Kalb	Bulle	3.15
+2	1
+Schnee	Sturm	2.08
+1	1
+Nagel	Hand	1.46
+1	0
+Arm	Genick	1.00
+1	2
+Ball	Handschuh	0.54
+1	1
+Grippe	Fieber	4.38
+0	2
+Gebühr	Gehalt	1.38
+0	1
+Nerv	Gehirn	3.31
+1	2
+Alkohol	Wein	4.31
+1	1
+Nase	Mund	2.77
+0	1
+Straße	Auto	2.31
+0	2
+Glocke	Türe	1.00
+0	0
+Schachtel	Hut	2.77
+0	1
+Glaube	Eindruck	4.15
+1	1
+Vorurteil	Meinung	5.15
+2	0
+Aufmerksamkeit	Bewusstsein	6.23
+0	2
+Zorn	Laune	4.15
+1	0
+Eleganz	Stil	6.92
+0	1
+Schönheit	Alter	4.00
+0	2
+Buch	Thematik	5.31
+2	0
+Vitamin	Eisen	5.00
+2	2
+Auto	Fabrik	3.92
+2	0
+Vertrag	Bedingung	6.08
+1	0
+Kapitel	Wahl	2.38
+2	0
+Arithmetik	Rhythmus	2.62
+0	1
+Glaube	Blume	2.38
+1	0
+Trick	Größe	1.31
+1	0
+Wahl	Neigung	3.92
+0	0
+Hymne	Eroberung	3.62
+0	0
+Ausdauer	Kapelle	1.46
+0	0
+Gefängnis	Wahl	2.00
+2	0
+Bedingung	Junge	1.69
+0	1
+Blume	Ausdauer	1.54
+0	0
+Loch	Vereinbarung	0.69
+2	0
+Brüderlichkeit	Türe	0.92
+0	0
+Brüderlichkeit	Baseball	2.62
+0	1
+Cent	Größe	2.08
+1	0
+Anwesenheit	Türe	2.00
+0	0
+Aufgabe	Autobahn	1.23
+0	0
+Likör	Jahrhundert	1.00
+1	2
+Aufgabe	Strohhalm	0.54
+0	1
+Insel	Aufgabe	1.92
+0	0
+Nacht	Kapitel	1.15
+0	2
+Pistole	Finte	4.77
+0	0
+Bad	Finte	1.23
+2	0
+Diät	Apfel	4.46
+0	1
+Kapitel	Schwanz	0.92
+2	1
+Verlauf	Bauch	1.46
+1	1
+Hymne	Strohhalm	0.46
+0	1
+Formel	Holzscheit	0.00
+0	1
+Apfel	Sonnenschein	0.15
+1	1
+Pistole	Morgendämmerung	0.00
+0	0
+Mahl	Taille	0.08
+2	0
+Likör	Kapelle	0.15
+1	0
+Bauch	Vene	0.08
+1	0
+Pistole	Pelz	0.31
+0	1
+Couch	Baseball	0.23
+0	1
+Klippe	Schwanz	0.00
+0	1
+Winkel	Fenster	0.38
+1	2
+Waggon	Container	4.15
+1	1
+Bad	Ballon	0.08
+2	1
+Bauch	Schlafzimmer	0.31
+1	2
+Fahrrad	Schlafzimmer	0.00
+2	2
+Holzscheit	Bad	0.08
+1	2
+Schale	Schwanz	0.15
+0	1

@@ -1,0 +1,1058 @@
+libro	testo	8.08
+1	1
+notte	giorno	1.69
+0	1
+sud	nord	2.46
+1	1
+aereo	aeroporto	6.15
+1	1
+sotto	sopra	2.00
+1	0
+mondo	globo	9.08
+1	1
+gamba	braccio	4.15
+0	1
+aereo	jet	8.31
+1	1
+film	pellicola	7.69
+1	0
+parola	dizionario	4.31
+0	1
+soldi	stipendio	6.92
+1	1
+area	regione	8.38
+0	0
+marina	esercito	5.54
+0	0
+libro	letteratura	6.62
+1	0
+vestiti	armadio	5.15
+1	1
+tramonto	alba	2.23
+1	0
+libro	storia	4.69
+1	0
+inverno	estate	2.69
+1	0
+taxi	tassì	8.23
+1	1
+albero	acero	7.46
+1	1
+letto	camera	4.85
+1	0
+tetto	soffitto	8.46
+1	1
+malattia	infezione	7.62
+0	0
+braccio	spalla	4.85
+1	0
+barca	ancora	2.62
+0	0
+alluce	dito	5.77
+1	1
+fiume	ruscello	7.38
+1	1
+rabbia	furia	8.92
+0	0
+data	calendario	5.38
+0	1
+mare	oceano	7.38
+1	1
+secondo	minuto	3.46
+1	1
+mano	pollice	3.62
+0	1
+legno	ceppo	7.46
+1	1
+fango	sporco	4.77
+1	1
+ingresso	corridoio	4.92
+1	1
+modo	maniera	9.31
+1	0
+poliziotto	sceriffo	7.62
+1	1
+morte	sepoltura	5.15
+0	0
+musica	melodia	8.31
+0	0
+birra	alcol	6.46
+0	1
+bocca	labbro	6.23
+0	1
+tempesta	uragano	7.92
+0	1
+tassa	reddito	2.85
+0	1
+fiore	viola	4.92
+1	0
+carta	cartone	7.08
+0	1
+pavimento	soffitto	0.46
+1	1
+spiaggia	lido	8.46
+0	1
+bastone	tenda	0.85
+1	0
+segugio	volpe	2.69
+1	0
+strada	vicolo	6.85
+0	1
+barca	ponte	1.31
+0	1
+auto	clacson	2.23
+0	1
+mano	polso	3.38
+0	1
+palla	cannone	2.23
+0	1
+alcol	brandy	6.23
+1	1
+vittoria	trionfo	10.00
+0	1
+telefono	cabina	3.46
+1	0
+porta	entrata	6.46
+0	0
+motel	locanda	7.00
+1	0
+vestiti	stoffa	3.69
+1	0
+bistecca	carne	7.08
+0	0
+unghia	pollice	2.62
+0	1
+banda	orchestra	8.15
+0	0
+libro	bibbia	5.23
+1	0
+impresa	industria	8.69
+0	0
+inverno	stagione	6.23
+1	0
+decennio	secolo	2.46
+1	1
+alcol	gin	5.69
+1	1
+cappello	cappotto	1.85
+1	1
+finestra	porta	3.31
+0	0
+braccio	polso	4.54
+1	1
+casa	appartamento	8.08
+0	1
+vetro	cristallo	7.92
+1	1
+vino	brandy	5.08
+1	1
+cena	colazione	2.38
+0	0
+braccio	muscolo	4.69
+1	1
+bolla	schiuma	6.00
+0	0
+pane	farina	5.23
+1	0
+morte	tragedia	6.38
+0	0
+assenza	presenza	0.08
+0	0
+pistola	cannone	4.54
+0	1
+erba	filo	4.08
+0	1
+palla	canestro	3.08
+0	1
+canna	giardino	1.85
+0	1
+chiesa	coro	3.69
+0	1
+vestiti	cassetto	2.85
+1	1
+torre	campana	3.92
+0	0
+scuola	classe	5.15
+0	0
+sbarra	prigione	6.08
+0	0
+auto	autostrada	3.77
+0	0
+dizionario	definizione	5.08
+1	0
+porta	cantina	3.00
+0	0
+esercito	legione	7.23
+0	0
+metallo	alluminio	6.31
+1	1
+sedia	panchina	6.31
+0	0
+nuvola	nebbia	5.15
+0	0
+acqua	ghiaccio	4.77
+0	1
+letto	coperta	4.23
+1	0
+area	zona	8.77
+0	0
+azienda	società	9.23
+0	0
+vestiti	tessuto	5.54
+1	1
+maglione	giacca	3.23
+1	0
+soldi	capitale	7.31
+1	1
+mano	piede	1.31
+0	1
+alcol	cocktail	5.77
+1	1
+iarda	pollice	4.69
+0	1
+molecola	atomo	5.31
+0	1
+lente	fotomacchina	4.46
+0	0
+pasto	cena	7.46
+1	0
+occhio	lacrima	4.77
+1	0
+dio	diavolo	0.54
+1	1
+cappio	cintura	3.62
+1	0
+motore	macchina	5.62
+1	0
+auto	taxi	6.15
+0	1
+dimensione	grandezza	7.31
+0	0
+realtà	fantasia	1.46
+0	0
+porta	cancello	6.69
+0	1
+latta	alluminio	6.31
+0	1
+osso	mascella	6.00
+1	0
+cereale	grano	7.31
+1	1
+casa	chiave	3.62
+0	0
+sangue	carne	4.46
+1	0
+porta	corridoio	2.92
+0	1
+dio	spirito	6.38
+1	1
+capacità	competenza	8.85
+0	0
+abbondanza	copiosità	8.69
+0	0
+divano	sedia	4.85
+1	0
+muro	mattone	5.77
+1	1
+tromba	tamburo	2.69
+0	1
+organo	fegato	6.92
+1	1
+forza	potenza	8.69
+0	0
+frase	parola	5.54
+0	0
+banda	parata	5.62
+0	0
+stomaco	vita	3.15
+1	0
+nuvola	tempesta	5.31
+0	0
+gioia	orgoglio	4.54
+0	1
+rumore	rantolo	6.62
+1	1
+pioggia	foschia	3.85
+0	0
+birra	bevanda	6.69
+0	0
+mela	succo	4.08
+0	1
+intelligenza	logica	7.15
+0	0
+comunicazione	lingua	6.23
+0	0
+visone	pelliccia	5.92
+0	0
+calca	folla	8.38
+0	0
+riva	costa	7.85
+0	0
+filo	corda	7.38
+1	0
+uccello	tacchino	5.69
+1	1
+letto	culla	7.23
+1	0
+competenza	abilità	7.92
+0	0
+nuvola	foschia	5.85
+0	0
+cena	pasto	7.15
+0	1
+sbarra	gabbia	5.00
+0	0
+acqua	sale	2.08
+0	1
+sensazione	intuizione	7.31
+0	0
+situazione	condizione	8.92
+0	0
+crimine	furto	8.00
+1	1
+stile	moda	7.62
+1	0
+confine	frontiera	9.23
+1	0
+braccio	corpo	4.92
+1	1
+barca	auto	1.00
+0	0
+tramezzino	pranzo	4.00
+1	1
+auto	calibro	1.46
+0	1
+lettino	culla	7.15
+1	0
+marijuana	erba	7.38
+0	0
+letto	ospedale	2.85
+1	1
+guancia	lingua	2.38
+0	0
+disco	computer	3.31
+1	1
+curva	angolo	3.31
+0	1
+erba	muschio	5.46
+0	1
+scuola	legge	2.00
+0	0
+piede	testa	1.15
+1	0
+alcol	whiskey	6.92
+1	1
+bocca	dente	3.62
+0	1
+colazione	pancetta	1.85
+0	0
+bagno	camera	3.08
+1	0
+piatto	ciotola	6.08
+1	0
+carne	pancetta	5.31
+0	0
+aria	elio	3.85
+0	1
+corpo	torace	4.62
+1	1
+cuore	chirurgia	2.92
+1	0
+spiaggia	isola	4.15
+0	0
+storia	argomento	4.38
+0	1
+gioco	divertimento	6.69
+1	1
+finesettimana	settimana	4.54
+1	0
+coppia	paio	8.38
+0	1
+borsellino	borsa	6.85
+1	0
+soffitto	cattedrale	1.23
+1	0
+chicco	caffè	4.38
+1	1
+foresta	carta	1.77
+0	0
+sopra	lato	2.15
+0	1
+crimine	frode	7.38
+1	0
+dolore	male	7.46
+1	1
+amante	compagno	6.08
+1	1
+sera	crepuscolo	7.15
+0	1
+vino	liquore	4.92
+1	1
+credo	opinione	5.38
+1	0
+realtà	illusione	0.15
+0	0
+patto	accordo	9.46
+1	1
+ricchezza	povertà	0.23
+0	0
+incidente	emergenza	4.92
+0	0
+battaglia	conquista	4.38
+0	0
+malattia	infezione	6.77
+0	0
+gioco	scherzo	6.54
+1	1
+quercia	acero	4.15
+0	1
+auto	bicicletta	0.85
+0	0
+obiettivo	ricerca	4.62
+1	0
+agosto	mese	5.54
+1	1
+esercito	nucleo	3.00
+0	1
+nuvola	tempo	3.69
+0	1
+burrone	valle	3.62
+1	0
+fiume	valle	2.23
+1	0
+sole	cielo	2.31
+1	1
+bersaglio	freccia	2.31
+1	0
+cioccolato	torta	3.54
+1	0
+circostanza	situazione	8.00
+0	0
+opinione	scelta	4.62
+0	0
+ritmo	melodia	5.38
+1	0
+fegato	coraggio	6.69
+1	1
+giorno	alba	4.69
+1	0
+braccio	vena	1.77
+1	0
+stanza	bagno	4.92
+0	1
+corporazione	impresa	7.31
+0	0
+divertimento	calcio	2.69
+1	1
+collina	scogliera	2.77
+0	0
+osso	caviglia	3.08
+1	0
+mela	caramella	1.08
+0	0
+limone	tè	2.31
+1	1
+basketball	baseball	1.46
+1	1
+riso	chicco	6.08
+1	1
+letto	mobilia	4.69
+1	0
+emozione	passione	6.69
+0	0
+anarchia	caos	7.08
+0	1
+crimine	violazione	7.23
+1	0
+macchina	motore	4.00
+0	1
+spiaggia	mare	3.85
+0	1
+vicolo	ciotola	0.46
+1	0
+barattolo	bottiglia	3.62
+1	0
+forza	capacità	4.69
+0	0
+seme	senape	1.85
+1	0
+chitarra	tamburo	1.54
+0	1
+opinione	idea	7.31
+0	0
+nord	ovest	1.92
+1	1
+dieta	insalata	2.77
+0	0
+metro	iarda	3.85
+1	0
+birra	champagne	2.69
+0	1
+motore	barca	2.15
+1	0
+carta	bridge	2.46
+0	1
+scienza	psicologia	3.69
+0	0
+peccatore	santo	0.69
+1	1
+distruzione	costruzione	0.31
+0	0
+folla	gruppo	7.77
+0	1
+spiaggia	scogliera	3.69
+0	0
+pane	formaggio	1.15
+1	1
+campione	vincitore	9.08
+1	1
+festeggiamento	cerimonia	6.62
+1	0
+menu	ordinazione	4.77
+1	0
+ricchezza	prestigio	5.31
+0	1
+resistenza	forza	5.31
+0	0
+pericolo	minaccia	7.85
+1	0
+corpo	stomaco	2.15
+1	1
+lingua	gola	3.23
+0	0
+casa	tappeto	1.46
+0	1
+intelligenza	talento	5.92
+0	1
+viaggio	conquista	1.92
+1	0
+morte	catastrofe	3.77
+0	0
+mostro	demone	7.15
+1	1
+giorno	mattino	4.77
+1	1
+canzone	storia	2.08
+0	0
+raggio	sole	3.85
+1	1
+pollo	riso	0.62
+1	1
+scatola	ascensore	0.62
+0	1
+burro	patata	0.00
+1	0
+appartamento	mobilia	1.08
+1	0
+lago	palude	2.77
+1	0
+insalata	aceto	0.69
+0	1
+fiore	bulbo	2.85
+1	1
+nuvola	foschia	2.69
+0	0
+zucchero	miele	3.00
+1	1
+corpo	spalla	1.00
+1	0
+idea	immagine	3.23
+0	0
+luna	pianeta	3.46
+0	1
+ballo	costume	0.85
+1	1
+rotaia	recinto	0.31
+0	1
+stanza	letto	1.62
+0	1
+fiore	cespuglio	0.92
+1	1
+osso	ginocchio	2.46
+1	1
+braccio	ginocchio	0.46
+1	1
+fondo	lato	0.69
+1	1
+vaso	vena	3.00
+1	0
+carne	tramezzino	0.62
+0	1
+credo	concetto	4.00
+1	1
+intelligenza	intuito	5.69
+0	1
+attenzione	interesse	7.77
+0	1
+attitudine	sicurezza	2.00
+0	0
+diritto	giustizia	5.69
+1	0
+discussione	accordo	2.00
+0	1
+profondità	magnitudine	1.38
+0	0
+mezzo	notizie	0.15
+1	0
+compleanno	data	3.31
+1	0
+retta	pagamento	6.23
+0	1
+bibbia	inno	0.69
+0	1
+uscita	entrata	1.15
+0	0
+navata	ingresso	2.23
+0	1
+whiskey	gin	1.46
+1	1
+sangue	midollo	1.31
+1	1
+olio	visone	0.00
+1	0
+pavimento	ponte	0.69
+1	1
+tetto	pavimento	0.69
+1	1
+porta	pavimento	0.31
+0	1
+spalla	testa	1.00
+0	0
+vagone	carrozza	8.92
+1	0
+auto	vettura	9.31
+0	0
+gomito	caviglia	0.69
+1	0
+ricchezza	fama	5.00
+0	0
+dolore	vergogna	3.00
+1	0
+amministrazione	gestione	8.00
+0	0
+comunicazione	conversazione	7.15
+0	0
+inquinamento	atmosfera	4.85
+1	0
+anatomia	biologia	4.38
+0	0
+università	professione	2.92
+0	0
+libro	argomento	4.23
+1	1
+formula	equazione	7.08
+0	0
+libro	informazione	4.77
+1	0
+cielo	universo	5.23
+1	1
+università	classe	4.54
+0	0
+metro	pollice	4.54
+1	1
+poliestere	cotone	2.00
+1	1
+violino	strumento	6.38
+1	0
+campo	cabina	1.31
+1	0
+pentola	apparecchio	1.85
+0	1
+lino	tessuto	6.69
+1	1
+whiskey	champagne	3.62
+1	1
+cottage	cabina	4.31
+1	0
+uccello	gallina	5.62
+1	0
+baccano	rumore	9.15
+1	1
+tramonto	sera	6.08
+1	0
+pioggerella	pioggia	8.00
+0	0
+carbonella	carbone	8.15
+0	1
+corpo	spina	1.15
+1	0
+testa	unghia	1.23
+0	0
+ceppo	trave	3.92
+1	0
+cucchiaio	tazza	2.92
+1	0
+corpo	nervo	2.85
+1	1
+osso	collo	3.62
+1	1
+frustrazione	rabbia	7.00
+0	0
+fiume	mare	3.92
+1	1
+compito	lavoro	7.15
+1	1
+club	società	6.77
+1	0
+riflesso	immagine	5.23
+1	0
+neve	tempo	4.38
+0	1
+radice	erba	3.92
+0	0
+sopracciglio	occhio	4.31
+1	1
+soldi	perla	3.08
+1	0
+soldi	diamante	4.38
+1	1
+veicolo	autobus	5.85
+1	1
+tassì	autobus	3.08
+1	1
+casa	stalla	3.31
+0	0
+dito	palmo	3.08
+1	1
+auto	ponte	1.08
+0	1
+sforzo	difficoltà	6.00
+1	0
+fatto	intuizione	2.31
+1	0
+lavoro	gestione	4.00
+1	0
+tumore	malattia	6.92
+1	0
+parola	giornale	2.77
+0	1
+compositore	scrittore	6.92
+1	1
+riparo	capanna	5.69
+1	0
+bagno	cucina	1.85
+1	0
+cabina	capanna	4.15
+0	0
+porta	cucina	1.85
+0	0
+valore	credo	4.38
+1	1
+saggezza	intelligenza	6.54
+0	0
+ignoranza	intelligenza	0.00
+0	0
+felicità	fortuna	5.15
+0	0
+idea	schema	4.15
+0	0
+umore	emozione	6.31
+1	0
+felicità	pace	4.69
+0	0
+disperazione	miseria	5.85
+0	0
+logica	aritmetica	5.31
+0	0
+negazione	confessione	1.15
+0	0
+discussione	critica	5.31
+0	0
+aggressione	ostilità	6.92
+0	0
+isteria	confusione	3.85
+0	0
+chimica	teoria	2.92
+0	0
+processo	verdetto	4.15
+1	1
+comodità	sicurezza	4.38
+0	0
+sicurezza	sé	2.85
+0	1
+visione	percezione	7.23
+0	0
+era	decade	5.85
+0	0
+biografia	narrativa	4.85
+0	0
+conversazione	discussione	7.77
+0	0
+codice	simbolo	5.69
+1	1
+pericolo	malattia	3.62
+1	0
+incidente	catastrofe	7.46
+0	0
+viaggio	gita	8.31
+1	0
+attività	movimento	7.46
+0	1
+pettegolezzo	notizie	4.54
+1	0
+azione	corso	3.00
+0	1
+febbre	malattia	6.62
+0	0
+aviazione	volo	6.31
+0	1
+gioco	azione	4.69
+1	0
+molecola	aria	4.08
+0	0
+casa	stato	2.00
+0	1
+parola	letteratura	4.15
+0	0
+giornale	informazione	6.54
+1	0
+comunicazione	televisione	4.77
+0	0
+area	angolo	2.85
+0	1
+ballata	canzone	5.08
+0	0
+muro	decorazione	2.23
+1	0
+parola	pagina	3.08
+0	0
+libro	saggio	4.38
+1	1
+articolo	rivista	5.62
+1	0
+colazione	cena	2.46
+0	0
+folla	parata	3.92
+0	0
+navata	corridoio	4.08
+0	1
+fianco	labbro	0.69
+1	1
+libro	articolo	3.08
+1	1
+stanza	cella	5.23
+0	0
+scatola	cabina	2.69
+0	0
+arto	gamba	6.85
+1	0
+fegato	polmone	3.15
+1	1
+classe	corridoio	2.00
+0	1
+montagna	cornice	1.77
+0	0
+auto	ascensore	0.92
+0	1
+letto	divano	4.00
+1	1
+vestiti	bottone	3.00
+1	1
+vestiti	cappotto	5.15
+1	1
+rene	organo	6.54
+1	1
+mela	salsa	1.00
+0	0
+auto	canna	1.08
+0	0
+tabacco	sigaretta	6.00
+1	0
+pipa	sigaro	4.46
+0	1
+latte	succo	2.77
+1	1
+scatola	sigaro	2.62
+0	1
+appartamento	hotel	3.46
+1	1
+coppetta	cono	3.69
+0	1
+gola	naso	2.62
+0	1
+osso	denti	4.69
+1	1
+osso	gomito	5.08
+1	1
+pancetta	fagiolo	1.38
+0	1
+tazza	barattolo	4.00
+0	1
+prova	fatto	5.69
+0	1
+appuntamento	impegno	7.62
+1	1
+compleanno	anno	4.54
+1	1
+parola	indizio	3.69
+0	1
+atomo	carbone	2.38
+1	1
+lettera	paragrafo	4.08
+0	1
+pagina	paragrafo	5.38
+0	1
+campanile	cappella	4.85
+1	0
+muscolo	osso	3.54
+1	1
+muscolo	lingua	3.69
+1	0
+pancia	addome	8.23
+0	1
+letto	sedia	2.54
+1	0
+vestiti	giacca	6.31
+1	0
+pistola	coltello	2.85
+0	1
+latta	metallo	7.08
+0	1
+bottiglia	contenitore	5.92
+0	1
+carne	pane	1.38
+0	1
+braccio	osso	4.69
+1	1
+collo	spina	1.62
+1	0
+mela	limone	3.31
+0	1
+agonia	dolore	8.31
+0	1
+assegnazione	compito	7.23
+0	1
+notte	alba	3.23
+0	0
+cena	zuppa	5.08
+0	0
+vitello	toro	5.08
+1	1
+neve	tempesta	4.92
+0	0
+unghia	mano	4.69
+0	0
+braccio	collo	2.54
+1	1
+palla	guanto	1.69
+0	1
+influenza	febbre	7.54
+0	0
+rata	salario	4.54
+0	1
+nervo	cervello	4.00
+1	1
+alcol	vino	6.85
+1	1
+naso	bocca	3.85
+1	0
+strada	auto	3.77
+0	0
+campanello	porta	5.00
+1	0
+scatola	cappello	0.92
+0	1
+credo	impressione	3.08
+1	0
+pregiudizio	opinione	5.31
+1	0
+attenzione	consapevolezza	5.08
+0	0
+rabbia	umore	5.62
+0	1
+eleganza	stile	7.00
+0	1
+bellezza	età	3.46
+0	0
+libro	tema	3.62
+1	1
+vitamina	ferro	4.92
+0	1
+auto	fabbrica	3.23
+0	0
+patto	condizione	6.00
+1	0
+capitolo	scelta	2.00
+1	0
+aritmetica	ritmo	0.77
+0	1
+credo	fiore	0.54
+1	1
+trucco	taglia	0.77
+1	0
+scelta	vena	1.31
+0	0
+inno	conquista	4.31
+1	0
+resistenza	band	2.00
+0	0
+prigione	scelta	0.85
+0	0
+condizione	ragazzo	1.85
+0	1
+fiore	resistenza	0.92
+1	0
+buco	accordo	0.62
+1	1
+confraternita	porta	0.85
+0	0
+confraternita	baseball	1.23
+0	1
+centesimo	taglia	1.92
+1	0
+presenza	porta	0.69
+0	0
+compito	autostrada	0.85
+1	0
+liquore	secolo	1.62
+1	1
+compito	paglia	1.08
+1	0
+isola	compito	0.54
+0	1
+notte	capitolo	0.92
+0	1
+pistola	trucco	0.85
+0	1
+bagno	trucco	2.00
+1	1
+dieta	mela	2.15
+0	0
+capitolo	coda	1.85
+1	0
+corso	stomaco	1.54
+1	1
+inno	paglia	0.69
+1	0
+formula	logaritmo	3.54
+0	1
+mela	sole	0.77
+0	1
+pistola	alba	0.31
+0	0
+pasto	vita	1.69
+1	0
+liquore	banda	0.15
+1	0
+stomaco	vena	1.85
+1	0
+pistola	pelliccia	0.15
+0	0
+divano	baseball	0.38
+1	1
+scogliera	coda	1.54
+0	0
+caviglia	finestra	1.08
+0	0
+vagone	container	6.46
+1	1
+bagno	palloncino	0.77
+1	1
+stomaco	camera	0.38
+1	0
+bicicletta	camera	2.00
+0	0
+ceppo	bagno	0.38
+1	1
+ciotola	coda	0.00
+0	0
